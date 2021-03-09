@@ -25,9 +25,9 @@ https://fajar-movies.web.app/
 
 2. API'S DOCUMENTATION
 
-| ROUTING  | METHODS | Description |
-| ------------- | ------------- |
-| https://us-central1-fajar-movies.cloudfunctions.net/movies?  | GET  | queryString: keywords=whateverYouNeed (for search all metadata movies), isAll=true (get all movies),  default (top 10 Movies This Year)|
+ROUTING | METHODS | Description 
+--- | --- | --- 
+https://us-central1-fajar-movies.cloudfunctions.net/movies? | GET | queryString: keywords=whateverYouNeed (for search all metadata movies), isAll=true (get all movies),default (top 10 Movies This Year)
 | https://us-central1-fajar-movies.cloudfunctions.net/movies/getOne/:_id  | GET | to get one Movie |
 | https://us-central1-fajar-movies.cloudfunctions.net/movies  | POST | Create Movie |
 | https://us-central1-fajar-movies.cloudfunctions.net/movies/booking/:transactionId  | POST | For Booking movie to add to cart (max: 1 movie only) |
