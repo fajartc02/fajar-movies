@@ -1,7 +1,5 @@
 # fajar-movies
-=============================================================================================
-GENERAL INFORMATIION (MongoDB, Express, Vuejs, Nodejs)
-=============================================================================================
+## GENERAL INFORMATIION (MongoDB, Express, Vuejs, Nodejs)
 
 ## LINK DEPLOY: 
 https://fajar-movies.web.app/
