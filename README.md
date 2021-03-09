@@ -48,7 +48,7 @@ https://us-central1-fajar-movies.cloudfunctions.net/movies? | GET | queryString:
 
 NOTE:
 Don't doubt to ask with me if any unclear information.
-I hope we can work together from TEST
+I hope we can work together from this TEST
 
 
 Thank You
